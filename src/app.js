@@ -22,7 +22,7 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 
-// app.use(middleware.tokenExtractor)
+app.use(middleware.tokenExtractor)
 
 app.use('/', router)
 if('test' === process.env.NODE_ENV) {

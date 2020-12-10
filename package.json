@@ -13,7 +13,6 @@
   "author": "Jun Lee",
   "license": "ISC",
   "devDependencies": {
-    "csv": "^5.3.2",
     "eslint": "^7.5.0",
     "jest": "^26.1.0",
     "nodemon": "^2.0.4"

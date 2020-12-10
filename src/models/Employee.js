@@ -61,9 +61,9 @@ const schema = new mongoose.Schema({
 
 schema.set('toJSON', {
     transform: (doc, ret) => {
-        ret.id = ret._id.toString(),
-            delete ret._id,
-            delete ret.__v
+        ret.gender = ret.gender ? "Female" : "Male", 
+        delete ret._id,
+        delete ret.__v
     }
 })
 
