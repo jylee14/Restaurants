@@ -1,5 +1,6 @@
 ###
 GET http://localhost:8000/Employees HTTP/1.1
+Authorization: bearer keyw9eMTC6oHYMQcJ
 
 ###
 GET http://localhost:8000/Salary?restaurant=fogoDeChao HTTP/1.1
@@ -15,6 +16,7 @@ Authorization: bearer keyw9eMTC6oHYMQcJ
 
 ###
 GET http://localhost:8000/Salary?restaurant=zenYai HTTP/1.1
+Authorization: bearer keyw9eMTC6oHYMQcJ
 
 ###
 GET http://localhost:8000/Salary?restaurant=invalid HTTP/1.1
