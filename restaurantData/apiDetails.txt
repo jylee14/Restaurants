@@ -1,9 +1,6 @@
 Bearer Token:
 keyw9eMTC6oHYMQcJ
 
-Root URL:
-https://api.airtable.com/v0/appX42ISdho4vdwsV
-
 Endpoints:
 /Employees
 /Salary
