@@ -1,0 +1,501 @@
+email,firstName,lastName,startDate,employmentType,department,level,city,gender,salary,shares
+Raymond.Bryant@zenyai.com,Raymond,Bryant,03/31/2018,Full-time,Front of house,2,Anchorage,Male,338573,2730
+David.Phillips@zenyai.com,David,Phillips,11/16/2019,Full-time,Management,4,Lubbock,Female,138370,2593
+Cheryl.Foster@zenyai.com,Cheryl,Foster,11/15/2012,Full-time,Operations,5,Newark,Female,254885,527
+Billy.Gray@zenyai.com,Billy,Gray,03/30/2018,Full-time,Front of house,1,Newark,Male,200058,3450
+Angela.Morgan@zenyai.com,Angela,Morgan,08/29/2017,Full-time,Operations,2,Honolulu,Male,74805,1218
+Nancy.Perez@zenyai.com,Nancy,Perez,05/22/2012,Full-time,Front of house,1,Oklahoma City,Female,232199,1578
+Doris.Morris@zenyai.com,Doris,Morris,05/22/2018,Full-time,Management,1,Boise,Female,304736,4729
+Jacqueline.James@zenyai.com,Jacqueline,James,12/23/2018,Full-time,Operations,3,Norfolk,Male,221844,807
+Jesse.Wood@zenyai.com,Jesse,Wood,04/17/2020,Full-time,Kitchen,1,Akron,Female,215866,3314
+Marilyn.Brooks@zenyai.com,Marilyn,Brooks,01/30/2020,Full-time,Management,2,Akron,Female,67283,2562
+Joshua.Long@zenyai.com,Joshua,Long,10/06/2013,Full-time,Management,5,Fort Worth,Female,246264,3226
+Laura.Thomas@zenyai.com,Laura,Thomas,03/19/2012,Full-time,Management,1,Albuquerque,Male,238802,1334
+Tina.Hill@zenyai.com,Tina,Hill,04/17/2019,Full-time,Kitchen,4,Virginia Beach,Female,175642,1946
+Christina.Parker@zenyai.com,Christina,Parker,06/25/2014,Full-time,Front of house,3,Las Vegas,Male,137140,850
+Steven.Miller@zenyai.com,Steven,Miller,11/02/2018,Full-time,Kitchen,4,Riverside,Female,261540,1904
+Heather.Hughes@zenyai.com,Heather,Hughes,04/09/2015,Full-time,Management,1,Henderson,Female,333160,3182
+Earl.Garcia@zenyai.com,Earl,Garcia,03/18/2016,Full-time,Operations,5,Portland,Male,170110,2724
+Tammy.Lee@zenyai.com,Tammy,Lee,08/04/2013,Full-time,Operations,2,Boston,Male,239411,2044
+Nicole.Mitchell@zenyai.com,Nicole,Mitchell,06/08/2020,Full-time,Front of house,5,San Jose,Female,305859,2192
+Betty.Martinez@zenyai.com,Betty,Martinez,12/02/2014,Full-time,Kitchen,5,Oakland,Female,87822,1754
+Andrew.Gonzales@zenyai.com,Andrew,Gonzales,04/16/2019,Full-time,Operations,1,Arlington,Male,295020,2102
+Richard.Cooper@zenyai.com,Richard,Cooper,01/25/2018,Full-time,Management,4,Greensboro,Female,328699,879
+Deborah.Moore@zenyai.com,Deborah,Moore,10/20/2020,Full-time,Kitchen,3,Montgomery,Female,336980,3459
+Kevin.Rivera@zenyai.com,Kevin,Rivera,06/09/2018,Full-time,Front of house,4,St. Louis,Female,282380,2071
+Ann.Williams@zenyai.com,Ann,Williams,05/21/2020,Full-time,Management,5,Fort Worth,Male,303637,4209
+Steve.Torres@zenyai.com,Steve,Torres,06/05/2012,Full-time,Kitchen,2,San Diego,Female,305307,3008
+Diane.Howard@zenyai.com,Diane,Howard,07/11/2013,Full-time,Front of house,4,Portland,Male,281130,406
+Patricia.Smith@zenyai.com,Patricia,Smith,12/17/2016,Full-time,Operations,3,Riverside,Female,253251,4468
+Carl.Wilson@zenyai.com,Carl,Wilson,04/15/2020,Full-time,Management,2,Chesapeake,Female,305680,380
+Craig.Murphy@zenyai.com,Craig,Murphy,06/17/2017,Full-time,Operations,4,Detroit,Male,101500,981
+Irene.Rogers@zenyai.com,Irene,Rogers,01/15/2019,Full-time,Operations,3,Fort Worth,Male,64850,1265
+Lisa.Taylor@zenyai.com,Lisa,Taylor,10/21/2019,Full-time,Kitchen,3,San Bernardino,Female,258991,2983
+Anna.Bennett@zenyai.com,Anna,Bennett,09/22/2020,Full-time,Management,3,Tampa,Female,204103,1464
+Ashley.Sanchez@zenyai.com,Ashley,Sanchez,07/01/2019,Full-time,Front of house,2,Los Angeles,Male,278420,3796
+Anne.Powell@zenyai.com,Anne,Powell,09/20/2016,Full-time,Management,1,Henderson,Female,69318,2127
+James.Nelson@zenyai.com,James,Nelson,12/08/2014,Full-time,Operations,1,Santa Ana,Female,219456,2052
+Sharon.Hall@zenyai.com,Sharon,Hall,08/01/2018,Full-time,Management,3,Jacksonville,Female,102973,1215
+Ryan.Coleman@zenyai.com,Ryan,Coleman,05/07/2019,Full-time,Kitchen,1,Milwaukee,Male,210228,2316
+Julie.Henderson@zenyai.com,Julie,Henderson,02/15/2012,Full-time,Management,3,Norfolk,Female,239941,3062
+Edward.Flores@zenyai.com,Edward,Flores,03/04/2017,Full-time,Management,1,Anaheim,Male,153826,4219
+Jack.Hernandez@zenyai.com,Jack,Hernandez,01/15/2015,Full-time,Management,5,Santa Ana,Female,271977,3574
+Donna.Martin@zenyai.com,Donna,Martin,05/14/2016,Full-time,Front of house,3,Nashville-Davidson,Female,116500,3024
+Timothy.Reed@zenyai.com,Timothy,Reed,06/21/2014,Full-time,Operations,5,Mesa,Male,291616,3512
+Dennis.Davis@zenyai.com,Dennis,Davis,04/17/2014,Full-time,Front of house,2,Chula Vista,Male,82962,2954
+Albert.Cook@zenyai.com,Albert,Cook,08/08/2019,Full-time,Operations,2,Kansas City,Female,294032,2662
+Bonnie.Patterson@zenyai.com,Bonnie,Patterson,01/16/2017,Full-time,Operations,1,Boise,Female,347847,3402
+Susan.Jones@zenyai.com,Susan,Jones,04/24/2020,Full-time,Kitchen,5,Fresno,Male,181635,3970
+Phillip.Young@zenyai.com,Phillip,Young,09/02/2013,Full-time,Front of house,3,El Paso,Female,127823,254
+Victor.Diaz@zenyai.com,Victor,Diaz,06/02/2019,Full-time,Operations,4,Bakersfield,Female,145070,4218
+Clarence.Richardson@zenyai.com,Clarence,Richardson,10/05/2017,Full-time,Management,4,Toledo,Female,249039,4673
+Matthew.Clark@zenyai.com,Matthew,Clark,02/03/2017,Full-time,Operations,5,Anaheim,Male,274972,1587
+Bruce.Peterson@zenyai.com,Bruce,Peterson,07/31/2014,Full-time,Management,5,Charlotte,Female,59725,4804
+Kathryn.Adams@zenyai.com,Kathryn,Adams,11/16/2012,Full-time,Operations,4,Chandler,Male,206692,2683
+Larry.Barnes@zenyai.com,Larry,Barnes,10/18/2019,Full-time,Front of house,5,Birmingham,Female,229126,553
+Janet.Alexander@zenyai.com,Janet,Alexander,08/16/2014,Full-time,Management,3,Henderson,Female,76334,4898
+Juan.Collins@zenyai.com,Juan,Collins,11/22/2017,Full-time,Operations,3,Stockton,Male,240976,1151
+Carolyn.Kelly@zenyai.com,Carolyn,Kelly,03/07/2018,Full-time,Operations,5,Lexington-Fayette,Male,173509,3060
+Adam.Scott@zenyai.com,Adam,Scott,03/14/2015,Full-time,Management,4,San Jose,Female,212814,3408
+Evelyn.Ward@zenyai.com,Evelyn,Ward,10/04/2012,Full-time,Front of house,5,Los Angeles,Female,207466,1484
+Dorothy.Stewart@zenyai.com,Dorothy,Stewart,09/26/2012,Full-time,Kitchen,5,Fort Wayne,Male,157179,2197
+Kelly.Ross@zenyai.com,Kelly,Ross,11/28/2018,Full-time,Front of house,1,St. Petersburg,Female,111197,4963
+Chris.Johnson@zenyai.com,Chris,Johnson,06/26/2016,Full-time,Kitchen,3,San Jose,Female,333242,2115
+Julia.Robinson@zenyai.com,Julia,Robinson,09/08/2014,Full-time,Front of house,4,Honolulu,Female,230543,1889
+Sara.Ramirez@zenyai.com,Sara,Ramirez,10/11/2015,Full-time,Front of house,5,Tulsa,Male,208925,1987
+Mildred.Campbell@zenyai.com,Mildred,Campbell,06/23/2012,Full-time,Management,2,Albuquerque,Female,183557,4035
+Kathy.Jackson@zenyai.com,Kathy,Jackson,01/06/2017,Full-time,Operations,2,Baltimore,Male,138300,545
+Ernest.Green@zenyai.com,Ernest,Green,11/10/2012,Full-time,Front of house,3,Hialeah,Female,257868,3055
+Alice.Carter@zenyai.com,Alice,Carter,08/27/2013,Full-time,Kitchen,4,New Orleans,Female,87113,2113
+Jason.Watson@zenyai.com,Jason,Watson,09/09/2013,Full-time,Front of house,3,Plano,Male,59106,2148
+Christine.Simmons@zenyai.com,Christine,Simmons,12/12/2013,Full-time,Front of house,2,Seattle,Male,167720,4598
+Russell.Lopez@zenyai.com,Russell,Lopez,06/03/2017,Full-time,Front of house,3,Aurora,Female,291155,3517
+Philip.Sanders@zenyai.com,Philip,Sanders,12/09/2019,Full-time,Management,5,New Orleans,Female,133730,4568
+Todd.Allen@zenyai.com,Todd,Allen,01/14/2012,Full-time,Front of house,5,Houston,Male,88951,2991
+Mark.Lewis@zenyai.com,Mark,Lewis,08/04/2012,Full-time,Front of house,5,Colorado Springs,Female,168147,3412
+Robert.Walker@zenyai.com,Robert,Walker,09/11/2012,Full-time,Front of house,2,Minneapolis,Female,88990,257
+Brenda.Brown@zenyai.com,Brenda,Brown,02/07/2012,Full-time,Kitchen,1,St. Louis,Female,325028,4454
+John.Gonzalez@zenyai.com,John,Gonzalez,03/12/2018,Full-time,Operations,5,Lincoln,Male,305549,2212
+Paul.Roberts@zenyai.com,Paul,Roberts,12/26/2012,Full-time,Kitchen,3,Honolulu,Female,188412,2516
+Pamela.Edwards@zenyai.com,Pamela,Edwards,06/06/2017,Full-time,Operations,2,Aurora,Male,231271,2851
+Henry.Butler@zenyai.com,Henry,Butler,01/11/2018,Full-time,Kitchen,5,Stockton,Female,248557,1292
+Gary.Washington@zenyai.com,Gary,Washington,10/07/2019,Full-time,Operations,2,Pittsburgh,Female,101543,399
+Joseph.Wright@zenyai.com,Joseph,Wright,08/20/2016,Full-time,Operations,5,Albuquerque,Male,96810,2612
+Stephanie.Evans@zenyai.com,Stephanie,Evans,12/15/2014,Full-time,Management,3,Corpus Christi,Male,304281,2128
+Norma.King@zenyai.com,Norma,King,12/24/2019,Part-time,Kitchen,1,Memphis,Female,329834,347
+Scott.Jenkins@zenyai.com,Scott,Jenkins,12/18/2018,Part-time,Kitchen,3,St. Paul,Female,295870,2239
+Lori.Griffin@zenyai.com,Lori,Griffin,05/29/2013,Part-time,Kitchen,4,Virginia Beach,Male,53947,2666
+Joan.Harris@zenyai.com,Joan,Harris,02/26/2016,Part-time,Management,3,St. Petersburg,Female,166231,1658
+Patrick.Rodriguez@zenyai.com,Patrick,Rodriguez,09/06/2012,Part-time,Kitchen,1,Chesapeake,Female,276925,566
+Kimberly.Turner@zenyai.com,Kimberly,Turner,12/14/2016,Part-time,Front of house,4,Madison,Female,99230,1797
+Randy.Baker@zenyai.com,Randy,Baker,04/04/2020,Part-time,Management,4,Boston,Male,251189,4790
+Jessica.Bell@zenyai.com,Jessica,Bell,05/10/2014,Part-time,Operations,3,Memphis,Female,337421,850
+Amy.Price@zenyai.com,Amy,Price,12/24/2012,Part-time,Kitchen,1,Baltimore,Male,289299,4402
+Rachel.Russell@zenyai.com,Rachel,Russell,10/31/2015,Part-time,Management,1,Nashville-Davidson,Female,239587,746
+Jerry.Thompson@zenyai.com,Jerry,Thompson,05/28/2015,Part-time,Operations,3,Wichita,Female,88383,2560
+Little.Ryan@zenyai.com,Little,Ryan,06/29/2013,Part-time,Management,4,Toledo,Male,225194,2951
+Bass.Christensen@zenyai.com,Bass,Christensen,04/05/2020,Part-time,Front of house,3,Orlando,Male,81342,2385
+Torres.Foster@zenyai.com,Torres,Foster,06/18/2012,Part-time,Management,5,Mesa,Female,168939,3838
+Mccormick.Bailey@zenyai.com,Mccormick,Bailey,02/17/2017,Part-time,Operations,5,New Orleans,Female,73097,707
+Williams.Salazar@zenyai.com,Williams,Salazar,09/13/2020,Part-time,Kitchen,3,Aurora,Male,119102,3209
+Chambers.Ingram@zenyai.com,Chambers,Ingram,11/06/2012,Part-time,Front of house,5,Mesa,Female,61623,3379
+Gardner.Jones@zenyai.com,Gardner,Jones,09/27/2020,Part-time,Kitchen,5,Nashville-Davidson,Female,252822,1240
+Lawson.White@zenyai.com,Lawson,White,05/18/2020,Part-time,Front of house,4,Las Vegas,Female,161258,3184
+Harper.Perez@zenyai.com,Harper,Perez,04/21/2015,Part-time,Operations,1,El Paso,Male,257688,3590
+Cobb.Ramos@zenyai.com,Cobb,Ramos,01/11/2018,Part-time,Operations,3,Chula Vista,Female,72906,3439
+Hudson.Barnes@zenyai.com,Hudson,Barnes,11/08/2012,Part-time,Management,1,Madison,Male,148079,2382
+Clark.Mcguire@zenyai.com,Clark,Mcguire,05/06/2017,Part-time,Front of house,1,Lincoln,Female,209588,3466
+Schwartz.Malone@zenyai.com,Schwartz,Malone,04/30/2014,Part-time,Front of house,1,Colorado Springs,Female,61747,4437
+Beck.Kim@zenyai.com,Beck,Kim,05/03/2013,Part-time,Management,2,Baltimore,Male,110365,2322
+Rose.Pratt@zenyai.com,Rose,Pratt,08/20/2017,Part-time,Front of house,4,El Paso,Male,151884,1605
+Hughes.Mann@zenyai.com,Hughes,Mann,04/20/2012,Part-time,Management,4,Honolulu,Female,52328,2967
+Fitzgerald.Stokes@zenyai.com,Fitzgerald,Stokes,08/19/2015,Part-time,Kitchen,5,Houston,Female,142758,1857
+Walters.Simpson@zenyai.com,Walters,Simpson,07/04/2013,Part-time,Operations,2,Chicago,Male,219170,2538
+Dunn.Miller@zenyai.com,Dunn,Miller,11/13/2015,Part-time,Operations,1,North Hempstead,Female,118868,2535
+Pearson.Vega@zenyai.com,Pearson,Vega,11/15/2015,Part-time,Management,5,Columbus,Female,340265,619
+Goodwin.Webster@zenyai.com,Goodwin,Webster,11/21/2017,Part-time,Management,1,Aurora,Female,237653,1431
+Gibbs.Flowers@zenyai.com,Gibbs,Flowers,08/27/2017,Part-time,Front of house,4,Las Vegas,Male,267635,643
+Hanson.Hunter@zenyai.com,Hanson,Hunter,09/07/2012,Part-time,Front of house,3,Philadelphia,Female,164798,3420
+Becker.Montgomery@zenyai.com,Becker,Montgomery,10/06/2013,Part-time,Front of house,4,Dallas,Male,204397,1405
+Gonzales.Wade@zenyai.com,Gonzales,Wade,08/03/2020,Part-time,Front of house,2,Oklahoma City,Female,158982,4112
+Hunt.Allen@zenyai.com,Hunt,Allen,10/21/2012,Part-time,Operations,4,Detroit,Female,85074,3631
+Carpenter.Lindsey@zenyai.com,Carpenter,Lindsey,04/06/2013,Part-time,Kitchen,2,St. Paul,Male,111141,1759
+Rodgers.Love@zenyai.com,Rodgers,Love,04/04/2018,Part-time,Management,1,Anchorage,Male,78109,3121
+May.Sanchez@zenyai.com,May,Sanchez,09/25/2014,Part-time,Management,2,Jersey City,Female,236375,1123
+Fisher.Perkins@zenyai.com,Fisher,Perkins,09/02/2014,Part-time,Operations,4,Cincinnati,Female,218736,890
+Payne.Guerrero@zenyai.com,Payne,Guerrero,01/13/2014,Part-time,Operations,2,Oklahoma City,Male,262128,700
+Wagner.Nunez@zenyai.com,Wagner,Nunez,03/17/2016,Part-time,Kitchen,2,Santa Ana,Female,213259,2570
+Jennings.Bishop@zenyai.com,Jennings,Bishop,07/21/2013,Part-time,Operations,1,Hialeah,Female,219839,3165
+Hall.Matthews@zenyai.com,Hall,Matthews,08/07/2019,Part-time,Management,5,Buffalo,Female,346727,2001
+Ramsey.Ballard@zenyai.com,Ramsey,Ballard,05/26/2012,Part-time,Kitchen,4,Charlotte,Male,165683,1899
+Tate.Erickson@zenyai.com,Tate,Erickson,09/21/2018,Part-time,Management,1,Plano,Female,65475,3860
+Huff.Brewer@zenyai.com,Huff,Brewer,09/17/2015,Part-time,Front of house,3,Lubbock,Male,339333,3367
+Miles.Rowe@zenyai.com,Miles,Rowe,08/02/2018,Part-time,Kitchen,3,Honolulu,Female,97078,1438
+Copeland.Hicks@zenyai.com,Copeland,Hicks,10/05/2015,Part-time,Management,1,Fort Wayne,Female,141789,4733
+Stone.Lawson@zenyai.com,Stone,Lawson,10/24/2016,Part-time,Management,4,San Bernardino,Male,151331,4435
+Elliott.Jenkins@zenyai.com,Elliott,Jenkins,10/28/2017,Part-time,Management,1,Scottsdale,Male,301573,1649
+Grant.Schneider@zenyai.com,Grant,Schneider,07/08/2015,Part-time,Kitchen,3,Tampa,Female,266799,1191
+Lane.Tyler@zenyai.com,Lane,Tyler,09/09/2017,Part-time,Front of house,4,Portland,Female,96892,4156
+Thompson.Wells@zenyai.com,Thompson,Wells,09/29/2012,Part-time,Kitchen,4,Colorado Springs,Male,347402,3559
+Erickson.Park@zenyai.com,Erickson,Park,11/13/2019,Part-time,Operations,5,Arlington,Female,124623,4062
+Diaz.Carson@zenyai.com,Diaz,Carson,07/29/2018,Part-time,Management,5,Boston,Female,241102,1299
+Greene.Henry@zenyai.com,Greene,Henry,11/06/2013,Part-time,Front of house,4,Fort Wayne,Female,115234,4697
+Foster.Mcdaniel@zenyai.com,Foster,Mcdaniel,12/30/2016,Part-time,Front of house,4,Aurora,Male,82553,3212
+Ortiz.Swanson@zenyai.com,Ortiz,Swanson,06/19/2018,Part-time,Kitchen,3,Lubbock,Female,154669,4412
+Haynes.Franklin@zenyai.com,Haynes,Franklin,04/28/2012,Part-time,Kitchen,2,Raleigh,Male,162661,792
+Saunders.Daniels@zenyai.com,Saunders,Daniels,04/06/2020,Part-time,Operations,1,Boston,Female,211542,1378
+Rios.Collins@zenyai.com,Rios,Collins,04/25/2017,Part-time,Kitchen,5,Philadelphia,Female,275067,4215
+Johnson.Bowen@zenyai.com,Johnson,Bowen,08/16/2016,Part-time,Operations,1,Norfolk,Male,132227,672
+Sutton.Knight@zenyai.com,Sutton,Knight,09/22/2013,Part-time,Operations,3,San Francisco,Male,242713,3792
+Gray.Brown@zenyai.com,Gray,Brown,11/15/2017,Part-time,Operations,3,Cleveland,Female,57181,716
+Sherman.Torres@zenyai.com,Sherman,Torres,07/02/2018,Part-time,Front of house,1,Wichita,Female,63883,1379
+Fletcher.Estrada@zenyai.com,Fletcher,Estrada,02/11/2012,Part-time,Kitchen,3,Cincinnati,Male,296560,1612
+Shaw.Barber@zenyai.com,Shaw,Barber,05/24/2014,Part-time,Front of house,4,Omaha,Female,272098,4357
+Holland.Vaughn@zenyai.com,Holland,Vaughn,08/07/2017,Part-time,Operations,5,Lincoln,Female,230901,3517
+Higgins.Ramirez@zenyai.com,Higgins,Ramirez,05/03/2015,Part-time,Management,1,Buffalo,Female,249627,800
+Vargas.Griffith@zenyai.com,Vargas,Griffith,10/24/2012,Part-time,Operations,1,Arlington,Male,228596,4501
+Jimenez.Davidson@zenyai.com,Jimenez,Davidson,05/21/2018,Part-time,Management,2,Norfolk,Female,171351,1170
+Harris.Munoz@zenyai.com,Harris,Munoz,10/11/2020,Part-time,Operations,3,Fort Worth,Male,187091,4767
+Bowman.Richardson@zenyai.com,Bowman,Richardson,11/19/2018,Part-time,Front of house,3,Anaheim,Female,326414,3598
+Nguyen.Townsend@zenyai.com,Nguyen,Townsend,12/01/2012,Part-time,Management,2,Toledo,Female,271935,2146
+Massey.Drake@zenyai.com,Massey,Drake,11/15/2017,Part-time,Operations,2,Lincoln,Male,158299,4946
+Walker.Wheeler@zenyai.com,Walker,Wheeler,05/26/2013,Part-time,Operations,5,Atlanta,Male,184516,4827
+Doyle.Kelley@zenyai.com,Doyle,Kelley,02/24/2016,Part-time,Management,2,Scottsdale,Female,180459,3594
+Chapman.Clarke@zenyai.com,Chapman,Clarke,09/25/2018,Part-time,Front of house,4,Lincoln,Female,173844,2282
+Mcdaniel.Reeves@zenyai.com,Mcdaniel,Reeves,10/19/2016,Part-time,Kitchen,3,Garland,Male,284856,1886
+Harvey.Wagner@zenyai.com,Harvey,Wagner,12/26/2016,Part-time,Front of house,5,Lubbock,Female,153601,2509
+Mathis.Marsh@zenyai.com,Mathis,Marsh,05/31/2016,Part-time,Kitchen,2,El Paso,Female,323107,796
+Ford.Hogan@zenyai.com,Ford,Hogan,11/27/2016,Part-time,Front of house,2,Cleveland,Female,224885,4032
+Reyes.Parker@zenyai.com,Reyes,Parker,01/15/2017,Part-time,Front of house,3,Fresno,Male,206521,1721
+Bryan.Underwood@zenyai.com,Bryan,Underwood,10/23/2018,Part-time,Management,1,Philadelphia,Female,228180,1854
+Pittman.Gardner@zenyai.com,Pittman,Gardner,10/07/2014,Part-time,Operations,3,Chandler,Male,144344,1979
+Todd.Hale@zenyai.com,Todd,Hale,04/07/2014,Part-time,Front of house,5,Pittsburgh,Female,126148,3022
+Perez.Logan@zenyai.com,Perez,Logan,04/02/2020,Part-time,Kitchen,1,Tucson,Female,281195,765
+Reynolds.Hardy@zenyai.com,Reynolds,Hardy,12/30/2016,Part-time,Front of house,2,San Jose,Male,90301,980
+Estrada.Pierce@zenyai.com,Estrada,Pierce,04/18/2018,Part-time,Front of house,2,Cincinnati,Male,63250,652
+Schultz.Copeland@zenyai.com,Schultz,Copeland,02/23/2018,Part-time,Front of house,2,Boise,Female,65354,2964
+Schmidt.Fields@zenyai.com,Schmidt,Fields,06/14/2018,Intern,Management,5,Laredo,Female,339706,869
+Barnes.Manning@zenyai.com,Barnes,Manning,06/06/2013,Intern,Front of house,4,Long Beach,Male,230115,1378
+Rhodes.Gross@zenyai.com,Rhodes,Gross,05/04/2012,Intern,Front of house,3,New Orleans,Female,95767,382
+Morales.Burton@zenyai.com,Morales,Burton,12/03/2018,Intern,Front of house,2,Oklahoma City,Female,252250,3205
+Vasquez.Wright@zenyai.com,Vasquez,Wright,09/03/2018,Intern,Kitchen,1,North Hempstead,Female,218750,2835
+Gill.Hines@zenyai.com,Gill,Hines,02/07/2017,Intern,Operations,1,St. Louis,Male,322353,2729
+Luna.Howell@zenyai.com,Luna,Howell,08/18/2016,Intern,Kitchen,5,Birmingham,Female,114164,356
+Thornton.Hayes@zenyai.com,Thornton,Hayes,07/06/2016,Intern,Operations,4,Garland,Male,128580,2736
+Wise.May@zenyai.com,Wise,May,04/17/2017,Intern,Front of house,5,El Paso,Female,79442,2463
+Logan.Bell@zenyai.com,Logan,Bell,09/02/2015,Intern,Front of house,3,Arlington,Female,326406,2361
+Morris.Herrera@zenyai.com,Morris,Herrera,05/25/2020,Part-time,Operations,5,Akron,Male,78230,2922
+Daniels.Bass@zenyai.com,Daniels,Bass,03/16/2016,Part-time,Kitchen,2,Jersey City,Male,95004,3838
+Phelps.Phillips@zenyai.com,Phelps,Phillips,03/28/2013,Part-time,Management,2,Scottsdale,Female,256471,341
+Curtis.Schwartz@zenyai.com,Curtis,Schwartz,02/20/2014,Part-time,Management,3,Glendale,Female,324765,383
+Gordon.Pena@zenyai.com,Gordon,Pena,06/02/2018,Part-time,Operations,5,Lexington-Fayette,Male,231986,1275
+Mckenzie.Black@zenyai.com,Mckenzie,Black,12/10/2016,Part-time,Operations,1,Stockton,Female,349118,4875
+Holloway.Wilkins@zenyai.com,Holloway,Wilkins,12/09/2016,Part-time,Kitchen,5,Jacksonville,Female,162322,1161
+Guerrero.Morton@zenyai.com,Guerrero,Morton,04/14/2015,Full-time,Operations,2,Greensboro,Female,93361,1191
+Fowler.Cohen@zenyai.com,Fowler,Cohen,10/31/2019,Full-time,Management,3,Birmingham,Male,252182,533
+Rogers.Joseph@zenyai.com,Rogers,Joseph,07/21/2019,Full-time,Kitchen,5,Honolulu,Female,185100,3345
+Abbott.Mendoza@zenyai.com,Abbott,Mendoza,01/18/2016,Full-time,Management,5,Washington,Male,194451,1309
+Robertson.Ward@zenyai.com,Robertson,Ward,06/05/2020,Full-time,Front of house,3,Anchorage,Female,144834,1486
+Cortez.Newman@zenyai.com,Cortez,Newman,10/01/2015,Full-time,Kitchen,3,Omaha,Female,198368,1432
+Alvarado.Adams@zenyai.com,Alvarado,Adams,11/24/2012,Full-time,Management,1,Chandler,Male,113877,491
+Lloyd.Johnson@zenyai.com,Lloyd,Johnson,06/21/2016,Full-time,Management,3,Kansas City,Male,341201,847
+Aguilar.Armstrong@zenyai.com,Aguilar,Armstrong,04/03/2015,Full-time,Management,1,Arlington,Female,228346,4366
+Cruz.Santiago@zenyai.com,Cruz,Santiago,07/08/2018,Full-time,Kitchen,2,Lexington-Fayette,Female,82043,2877
+Henderson.Adkins@zenyai.com,Henderson,Adkins,02/26/2018,Full-time,Front of house,4,St. Louis,Male,124242,1779
+Snyder.Harper@zenyai.com,Snyder,Harper,11/17/2014,Full-time,Kitchen,2,Arlington,Female,312104,2228
+Matthews.Cole@zenyai.com,Matthews,Cole,11/12/2014,Full-time,Operations,4,Los Angeles,Female,328572,435
+Edwards.Welch@zenyai.com,Edwards,Welch,01/07/2020,Full-time,Management,5,Portland,Female,266048,2019
+Manning.Hart@zenyai.com,Manning,Hart,03/07/2014,Full-time,Front of house,1,Norfolk,Male,239635,3734
+Gilbert.Page@zenyai.com,Gilbert,Page,04/16/2013,Full-time,Front of house,1,Fort Wayne,Female,291284,2321
+Garza.Strickland@zenyai.com,Garza,Strickland,10/08/2015,Full-time,Kitchen,2,Norfolk,Male,224061,1015
+Bradley.Pittman@zenyai.com,Bradley,Pittman,04/03/2019,Full-time,Kitchen,1,Toledo,Female,76046,3045
+Stanley.Hammond@zenyai.com,Stanley,Hammond,07/25/2015,Full-time,Operations,3,New York,Female,77265,4015
+Williamson.Wong@zenyai.com,Williamson,Wong,08/22/2017,Full-time,Kitchen,1,Chula Vista,Male,81389,1243
+Hansen.Roberson@zenyai.com,Hansen,Roberson,01/29/2020,Full-time,Operations,1,Portland,Male,154240,2579
+Owens.Meyer@zenyai.com,Owens,Meyer,07/30/2012,Full-time,Operations,4,Miami,Female,150954,4571
+Simpson.Keller@zenyai.com,Simpson,Keller,11/06/2017,Full-time,Operations,4,Fort Wayne,Female,225449,2446
+White.Fox@zenyai.com,White,Fox,04/03/2020,Full-time,Front of house,3,Austin,Male,99580,4165
+Parker.Bryant@zenyai.com,Parker,Bryant,02/13/2014,Full-time,Kitchen,4,Riverside,Female,146675,2199
+Lyons.Walsh@zenyai.com,Lyons,Walsh,06/27/2017,Full-time,Front of house,3,Chandler,Female,79137,3930
+Malone.Powell@zenyai.com,Malone,Powell,08/14/2016,Full-time,Operations,1,Henderson,Female,132892,329
+Benson.Thompson@zenyai.com,Benson,Thompson,08/25/2018,Full-time,Management,4,Glendale,Male,212615,935
+Jensen.Carpenter@zenyai.com,Jensen,Carpenter,07/19/2012,Full-time,Operations,1,San Francisco,Female,65972,2366
+Taylor.Mendez@zenyai.com,Taylor,Mendez,04/22/2018,Full-time,Kitchen,5,Nashville-Davidson,Male,268184,3217
+Flowers.Mckenzie@zenyai.com,Flowers,Mckenzie,10/07/2016,Full-time,Operations,2,Buffalo,Female,82917,1904
+Ray.Wood@zenyai.com,Ray,Wood,09/15/2013,Full-time,Operations,2,Wichita,Female,346682,3415
+Underwood.Watkins@zenyai.com,Underwood,Watkins,03/16/2013,Full-time,Kitchen,4,Raleigh,Male,282553,1661
+Caldwell.Crawford@zenyai.com,Caldwell,Crawford,10/08/2019,Full-time,Kitchen,5,Austin,Male,171493,3223
+Weaver.Payne@zenyai.com,Weaver,Payne,09/11/2015,Full-time,Management,4,Colorado Springs,Female,257473,3585
+Hawkins.Curry@zenyai.com,Hawkins,Curry,01/27/2019,Full-time,Kitchen,3,Los Angeles,Female,134265,4209
+Sparks.Rose@zenyai.com,Sparks,Rose,08/16/2020,Full-time,Management,2,Houston,Male,83713,1350
+Farmer.Carroll@zenyai.com,Farmer,Carroll,09/07/2014,Full-time,Front of house,2,Aurora,Female,239220,3945
+Gonzalez.Reyes@zenyai.com,Gonzalez,Reyes,03/03/2012,Full-time,Management,2,El Paso,Female,116301,2777
+Wong.Daniel@zenyai.com,Wong,Daniel,02/16/2012,Full-time,Management,5,Boston,Female,261342,738
+Sullivan.Castro@zenyai.com,Sullivan,Castro,05/09/2012,Full-time,Operations,3,Wichita,Male,202253,4405
+Banks.Hawkins@zenyai.com,Banks,Hawkins,05/19/2015,Full-time,Operations,3,Aurora,Female,212168,1204
+Hampton.Hopkins@zenyai.com,Hampton,Hopkins,04/14/2018,Full-time,Operations,3,Lincoln,Male,260733,1131
+Hodges.Nelson@zenyai.com,Hodges,Nelson,10/06/2014,Full-time,Front of house,1,Fresno,Female,328400,2930
+Stevens.Morris@zenyai.com,Stevens,Morris,09/20/2016,Full-time,Kitchen,1,Scottsdale,Female,220704,918
+Vaughn.Williamson@zenyai.com,Vaughn,Williamson,07/23/2018,Full-time,Kitchen,5,Birmingham,Male,114444,712
+Patton.Gill@zenyai.com,Patton,Gill,04/03/2018,Full-time,Kitchen,2,Cleveland,Male,253750,1226
+Casey.Santos@zenyai.com,Casey,Santos,07/18/2017,Full-time,Kitchen,1,Santa Ana,Female,339134,4237
+Gutierrez.Benson@zenyai.com,Gutierrez,Benson,01/12/2020,Full-time,Operations,1,Fort Worth,Female,297745,4997
+Garner.Ross@zenyai.com,Garner,Ross,01/30/2014,Full-time,Operations,4,San Jose,Male,291201,3950
+Willis.Fuller@zenyai.com,Willis,Fuller,01/03/2020,Full-time,Management,5,San Antonio,Female,210826,4448
+Anderson.Turner@zenyai.com,Anderson,Turner,02/09/2019,Full-time,Front of house,3,Atlanta,Female,156647,4718
+Brady.Williams@zenyai.com,Brady,Williams,07/18/2017,Full-time,Management,4,Bakersfield,Female,69127,1612
+Hale.Sherman@zenyai.com,Hale,Sherman,09/11/2016,Full-time,Management,1,Arlington,Male,200001,1214
+French.Burns@zenyai.com,French,Burns,04/02/2015,Full-time,Kitchen,3,Tampa,Female,147806,1099
+Griffin.Goodwin@zenyai.com,Griffin,Goodwin,06/21/2015,Full-time,Front of house,1,Norfolk,Male,58747,562
+Frank.Allison@zenyai.com,Frank,Allison,05/21/2013,Full-time,Operations,5,Arlington,Female,228070,1671
+Lopez.Freeman@zenyai.com,Lopez,Freeman,09/01/2020,Full-time,Kitchen,4,Milwaukee,Female,225221,2717
+Blair.Bates@zenyai.com,Blair,Bates,11/26/2013,Full-time,Operations,5,Aurora,Male,276494,411
+Jefferson.Briggs@zenyai.com,Jefferson,Briggs,09/19/2013,Full-time,Management,4,Pittsburgh,Male,132442,3733
+Fuller.Yates@zenyai.com,Fuller,Yates,04/20/2020,Full-time,Kitchen,2,El Paso,Female,72826,1405
+Jordan.Guzman@zenyai.com,Jordan,Guzman,02/02/2018,Full-time,Front of house,5,Kansas City,Female,289267,4971
+Jacobs.Cannon@zenyai.com,Jacobs,Cannon,04/28/2012,Full-time,Operations,2,Houston,Male,183721,3851
+Pratt.Reynolds@zenyai.com,Pratt,Reynolds,09/13/2018,Full-time,Management,3,Arlington,Female,68911,4060
+Crawford.Rogers@zenyai.com,Crawford,Rogers,01/15/2019,Full-time,Front of house,4,Stockton,Female,121135,1266
+Garrett.Marshall@zenyai.com,Garrett,Marshall,05/23/2012,Full-time,Kitchen,2,New Orleans,Female,124038,4902
+Allison.Colon@zenyai.com,Allison,Colon,05/29/2017,Full-time,Front of house,4,Chicago,Male,275488,3416
+Turner.Craig@zenyai.com,Turner,Craig,02/17/2020,Full-time,Operations,5,Chesapeake,Female,103093,1176
+Soto.Bowman@zenyai.com,Soto,Bowman,02/09/2016,Full-time,Operations,3,Garland,Male,254012,1559
+Gregory.Frazier@zenyai.com,Gregory,Frazier,05/18/2013,Full-time,Kitchen,4,Riverside,Female,335060,4626
+Arnold.Sandoval@zenyai.com,Arnold,Sandoval,06/07/2018,Full-time,Operations,5,Henderson,Female,139056,3375
+Marshall.Mack@zenyai.com,Marshall,Mack,06/07/2013,Full-time,Kitchen,3,New York,Male,57105,4126
+Marsh.Banks@zenyai.com,Marsh,Banks,03/27/2013,Full-time,Management,2,Phoenix,Male,171719,3415
+Myers.Singleton@zenyai.com,Myers,Singleton,08/16/2018,Full-time,Front of house,1,Garland,Female,170808,1948
+Watkins.Hudson@zenyai.com,Watkins,Hudson,09/24/2013,Full-time,Management,5,St. Louis,Female,269532,4826
+Shelton.Clark@zenyai.com,Shelton,Clark,12/16/2018,Full-time,Operations,2,Charlotte,Male,159919,2007
+Duncan.Little@zenyai.com,Duncan,Little,11/17/2012,Full-time,Front of house,5,Denver,Female,280956,2137
+Chavez.Gray@zenyai.com,Chavez,Gray,10/13/2016,Full-time,Kitchen,2,Albuquerque,Female,125170,1202
+Ferguson.James@zenyai.com,Ferguson,James,10/10/2020,Full-time,Operations,2,Lubbock,Female,297555,1228
+Walsh.Simmons@zenyai.com,Walsh,Simmons,02/24/2017,Full-time,Operations,2,Colorado Springs,Male,301550,1341
+Barton.Douglas@zenyai.com,Barton,Douglas,12/07/2015,Full-time,Operations,3,San Bernardino,Female,251099,2458
+Munoz.Harrington@zenyai.com,Munoz,Harrington,11/12/2016,Full-time,Operations,4,Orlando,Male,221820,4432
+Mckinney.Mcdonald@zenyai.com,Mckinney,Mcdonald,10/31/2014,Full-time,Front of house,5,Cincinnati,Female,260475,3455
+Mcguire.Porter@zenyai.com,Mcguire,Porter,05/19/2014,Full-time,Management,5,Durham,Female,204015,581
+Green.Todd@zenyai.com,Green,Todd,05/04/2018,Full-time,Operations,2,Boise,Male,172159,1506
+Mendez.Valdez@zenyai.com,Mendez,Valdez,02/03/2015,Full-time,Operations,5,Greensboro,Male,285108,4303
+Yates.Moran@zenyai.com,Yates,Moran,05/30/2019,Full-time,Operations,2,Kansas City,Female,95273,3667
+Evans.Nichols@zenyai.com,Evans,Nichols,04/06/2017,Full-time,Kitchen,1,Glendale,Female,117770,3588
+Moody.Thornton@zenyai.com,Moody,Thornton,11/28/2015,Full-time,Kitchen,3,Jacksonville,Male,86095,3770
+Holt.Sharp@zenyai.com,Holt,Sharp,11/10/2015,Full-time,Front of house,3,Henderson,Female,307838,2120
+Jenkins.Farmer@zenyai.com,Jenkins,Farmer,05/01/2019,Full-time,Operations,3,Akron,Female,135505,3827
+Hammond.Horton@zenyai.com,Hammond,Horton,03/09/2020,Full-time,Management,1,Colorado Springs,Female,132622,706
+Francis.Byrd@zenyai.com,Francis,Byrd,07/15/2014,Full-time,Management,4,Washington,Male,127947,3874
+Bennett.Barrett@zenyai.com,Bennett,Barrett,11/27/2019,Full-time,Management,4,San Antonio,Female,265777,2101
+Dennis.Patton@zenyai.com,Dennis,Patton,07/21/2020,Full-time,Operations,2,Stockton,Male,211208,334
+Douglas.Gibbs@zenyai.com,Douglas,Gibbs,02/17/2017,Full-time,Operations,5,Akron,Female,136647,2621
+Butler.Chandler@zenyai.com,Butler,Chandler,09/07/2017,Full-time,Front of house,1,Henderson,Female,70718,2792
+Glover.Lawrence@zenyai.com,Glover,Lawrence,12/20/2017,Full-time,Management,5,Corpus Christi,Male,115710,2571
+Mcbride.Carlson@zenyai.com,Mcbride,Carlson,08/07/2016,Full-time,Kitchen,1,El Paso,Male,176796,2363
+Boone.Morrison@zenyai.com,Boone,Morrison,09/06/2016,Full-time,Front of house,4,Stockton,Female,264926,1366
+Walton.Weber@zenyai.com,Walton,Weber,04/26/2015,Full-time,Management,1,Los Angeles,Female,242347,4354
+Ward.Mcgee@zenyai.com,Ward,Mcgee,03/05/2020,Full-time,Kitchen,1,Las Vegas,Male,97021,4107
+Richardson.Chavez@zenyai.com,Richardson,Chavez,05/06/2018,Full-time,Kitchen,2,Chicago,Female,149320,592
+Watson.Jimenez@zenyai.com,Watson,Jimenez,10/07/2020,Full-time,Kitchen,2,Birmingham,Female,143674,1826
+Martinez.Nash@zenyai.com,Martinez,Nash,10/13/2015,Full-time,Front of house,5,Philadelphia,Female,68153,4465
+Barnett.Hamilton@zenyai.com,Barnett,Hamilton,06/05/2016,Full-time,Management,5,Riverside,Male,58850,467
+Pierce.Mills@zenyai.com,Pierce,Mills,10/16/2020,Full-time,Operations,5,Greensboro,Female,263787,2121
+Gomez.Aguilar@zenyai.com,Gomez,Aguilar,02/17/2019,Full-time,Management,2,Milwaukee,Male,308554,4189
+Roberson.Boone@zenyai.com,Roberson,Boone,03/04/2017,Full-time,Front of house,1,Houston,Female,181556,4375
+Bates.Webb@zenyai.com,Bates,Webb,06/19/2016,Full-time,Front of house,2,Detroit,Female,303199,1843
+Perkins.Lyons@zenyai.com,Perkins,Lyons,12/15/2012,Full-time,Front of house,2,St. Paul,Male,330476,3233
+Singleton.Davis@zenyai.com,Singleton,Davis,12/22/2017,Full-time,Management,1,Glendale,Male,339460,1136
+Osborne.Reese@zenyai.com,Osborne,Reese,08/13/2016,Full-time,Management,3,Orlando,Female,133739,2019
+Gross.Greene@zenyai.com,Gross,Greene,07/02/2020,Full-time,Management,3,Boston,Female,183460,4507
+Newman.Roberts@zenyai.com,Newman,Roberts,12/10/2017,Full-time,Front of house,4,Arlington,Male,310574,3858
+Love.Flores@zenyai.com,Love,Flores,05/30/2018,Full-time,Management,2,North Hempstead,Female,161649,2930
+Miller.Austin@zenyai.com,Miller,Austin,08/01/2013,Full-time,Kitchen,5,North Hempstead,Female,102261,342
+Hoffman.Harmon@zenyai.com,Hoffman,Harmon,03/24/2012,Full-time,Management,3,Tulsa,Female,55365,540
+Reed.Wallace@zenyai.com,Reed,Wallace,09/15/2012,Full-time,Management,1,New Orleans,Male,236704,1239
+Ruiz.Henderson@zenyai.com,Ruiz,Henderson,01/12/2015,Full-time,Operations,3,Baltimore,Female,171153,3948
+Floyd.Ford@zenyai.com,Floyd,Ford,10/22/2014,Full-time,Management,1,Cleveland,Male,57388,2649
+King.Gutierrez@zenyai.com,King,Gutierrez,12/11/2017,Full-time,Management,3,Durham,Female,349188,1175
+Guzman.Romero@zenyai.com,Guzman,Romero,11/27/2014,Full-time,Operations,3,New Orleans,Female,282988,2478
+Simmons.Maxwell@zenyai.com,Simmons,Maxwell,01/02/2018,Full-time,Operations,4,Houston,Male,115040,3255
+Russell.Thomas@zenyai.com,Russell,Thomas,06/21/2014,Full-time,Front of house,4,Mesa,Male,175170,1236
+Newton.Fitzgerald@zenyai.com,Newton,Fitzgerald,01/13/2020,Full-time,Front of house,3,Huntington,Female,238035,2071
+Clayton.Bowers@zenyai.com,Clayton,Bowers,06/11/2016,Full-time,Front of house,3,Anchorage,Female,309480,964
+Fields.Kennedy@zenyai.com,Fields,Kennedy,10/18/2013,Full-time,Kitchen,1,Stockton,Male,309848,389
+Strickland.Brady@zenyai.com,Strickland,Brady,07/26/2019,Full-time,Management,4,Cleveland,Female,95545,2097
+Moss.Coleman@zenyai.com,Moss,Coleman,02/17/2012,Full-time,Management,5,Garland,Female,311201,1696
+Roy.Long@zenyai.com,Roy,Long,08/01/2015,Full-time,Front of house,1,Minneapolis,Female,248200,3220
+Powell.Peters@zenyai.com,Powell,Peters,10/23/2020,Full-time,Kitchen,1,Honolulu,Male,168186,3200
+Christensen.Russell@zenyai.com,Christensen,Russell,09/08/2017,Full-time,Front of house,3,Kansas City,Female,330500,3940
+Santos.Ferguson@zenyai.com,Santos,Ferguson,03/31/2018,Full-time,Front of house,4,Long Beach,Male,60273,4913
+Patterson.Bryan@zenyai.com,Patterson,Bryan,09/11/2016,Full-time,Front of house,1,New York,Female,343578,4824
+Young.Alvarado@zenyai.com,Young,Alvarado,08/03/2013,Full-time,Operations,2,Atlanta,Female,318466,1810
+Bush.Jensen@zenyai.com,Bush,Jensen,11/15/2012,Full-time,Kitchen,3,Jacksonville,Male,133598,4115
+Smith.Price@zenyai.com,Smith,Price,05/04/2012,Full-time,Operations,2,Stockton,Male,318249,2777
+Hines.Casey@zenyai.com,Hines,Casey,12/13/2014,Full-time,Management,2,Honolulu,Female,225368,2449
+Cain.Lynch@zenyai.com,Cain,Lynch,09/06/2020,Full-time,Management,4,San Antonio,Female,327874,793
+Carson.Higgins@zenyai.com,Carson,Higgins,11/28/2019,Full-time,Front of house,3,Miami,Male,133899,2189
+Obrien.Blake@zenyai.com,Obrien,Blake,10/23/2017,Full-time,Front of house,3,Sacramento,Female,215227,4312
+Hopkins.Holmes@zenyai.com,Hopkins,Holmes,06/21/2012,Full-time,Operations,2,Anchorage,Female,275329,701
+Cannon.Roy@zenyai.com,Cannon,Roy,05/12/2016,Full-time,Kitchen,3,Virginia Beach,Female,175124,2615
+Mcgee.Schmidt@zenyai.com,Mcgee,Schmidt,09/16/2018,Full-time,Management,1,Long Beach,Male,339714,340
+Greer.Hill@zenyai.com,Greer,Hill,07/30/2016,Full-time,Management,3,Honolulu,Female,157986,1386
+Sandoval.Mitchell@zenyai.com,Sandoval,Mitchell,02/29/2012,Full-time,Kitchen,4,Akron,Male,210594,890
+Daniel.Fleming@zenyai.com,Daniel,Fleming,01/15/2015,Full-time,Operations,4,Riverside,Female,98092,2017
+Harmon.Clayton@zenyai.com,Harmon,Clayton,10/16/2015,Full-time,Kitchen,5,Boston,Female,193621,1577
+Gibson.Parsons@zenyai.com,Gibson,Parsons,05/15/2014,Full-time,Front of house,3,Memphis,Male,129793,4797
+Washington.Blair@zenyai.com,Washington,Blair,11/24/2013,Full-time,Front of house,5,Oklahoma City,Male,55897,3588
+Hayes.Pearson@zenyai.com,Hayes,Pearson,04/09/2020,Full-time,Management,3,St. Louis,Female,292716,1975
+Bridges.Norris@zenyai.com,Bridges,Norris,06/27/2018,Full-time,Management,2,Pittsburgh,Female,82029,2135
+Swanson.Tran@zenyai.com,Swanson,Tran,06/05/2012,Full-time,Front of house,5,Anchorage,Male,327984,494
+Maxwell.Lee@zenyai.com,Maxwell,Lee,10/31/2015,Full-time,Management,5,Tulsa,Female,78185,2197
+Perry.Mathis@zenyai.com,Perry,Mathis,07/23/2012,Full-time,Management,2,Riverside,Female,341278,2920
+Colon.Saunders@zenyai.com,Colon,Saunders,09/21/2016,Full-time,Management,2,Oklahoma City,Female,218544,1748
+Cole.Smith@zenyai.com,Cole,Smith,03/28/2018,Full-time,Kitchen,2,Jersey City,Male,250929,489
+Wright.Bridges@zenyai.com,Wright,Bridges,03/02/2019,Full-time,Front of house,3,Buffalo,Female,232789,3009
+Wade.Ellis@zenyai.com,Wade,Ellis,09/22/2017,Full-time,Front of house,4,Chandler,Male,118147,4515
+Collier.Cobb@zenyai.com,Collier,Cobb,05/08/2012,Full-time,Operations,4,Modesto,Female,337071,657
+Sanchez.Schultz@zenyai.com,Sanchez,Schultz,07/17/2015,Full-time,Operations,3,Kansas City,Female,111061,3218
+Porter.Sullivan@zenyai.com,Porter,Sullivan,08/05/2019,Full-time,Kitchen,2,Montgomery,Male,254935,402
+Burke.Chambers@zenyai.com,Burke,Chambers,05/09/2012,Full-time,Management,3,Arlington,Male,326024,4414
+Klein.Wolfe@zenyai.com,Klein,Wolfe,04/03/2012,Full-time,Operations,1,Bakersfield,Female,176351,327
+Mcdonald.Cooper@zenyai.com,Mcdonald,Cooper,05/11/2013,Full-time,Kitchen,3,Detroit,Female,249531,4097
+Tran.Rios@zenyai.com,Tran,Rios,09/03/2013,Full-time,Management,2,Montgomery,Male,199007,2026
+Rodriguez.Simon@zenyai.com,Rodriguez,Simon,09/24/2013,Full-time,Kitchen,4,San Diego,Female,94828,4169
+Goodman.Harvey@zenyai.com,Goodman,Harvey,08/11/2018,Full-time,Front of house,4,Austin,Female,256662,4424
+Day.Riley@zenyai.com,Day,Riley,11/06/2013,Full-time,Management,5,Arlington,Female,61167,4110
+Sims.Andrews@zenyai.com,Sims,Andrews,12/09/2016,Full-time,Management,4,Anchorage,Male,103461,1458
+Buchanan.Hughes@zenyai.com,Buchanan,Hughes,01/26/2017,Full-time,Operations,3,Corpus Christi,Female,84445,2374
+Ballard.Ruiz@zenyai.com,Ballard,Ruiz,07/11/2013,Full-time,Kitchen,5,Long Beach,Male,227374,4393
+Nash.Gregory@zenyai.com,Nash,Gregory,02/18/2017,Full-time,Kitchen,3,Huntington,Female,63660,594
+Bowers.Ramsey@zenyai.com,Bowers,Ramsey,08/19/2014,Full-time,Management,1,Atlanta,Female,249858,4251
+Hernandez.Anderson@zenyai.com,Hernandez,Anderson,10/24/2016,Full-time,Kitchen,2,Chula Vista,Male,340664,1514
+Murphy.Phelps@zenyai.com,Murphy,Phelps,03/06/2020,Full-time,Management,3,Los Angeles,Male,295285,598
+Ramos.Huff@zenyai.com,Ramos,Huff,04/10/2015,Full-time,Front of house,5,Minneapolis,Female,261010,1297
+Norman.Frank@zenyai.com,Norman,Frank,01/10/2013,Full-time,Front of house,1,Norfolk,Female,86829,4261
+Wheeler.Larson@zenyai.com,Wheeler,Larson,12/02/2012,Full-time,Operations,5,Birmingham,Male,92331,3812
+Ingram.Garner@zenyai.com,Ingram,Garner,05/24/2019,Full-time,Management,1,Raleigh,Female,64151,3449
+Vega.Lopez@zenyai.com,Vega,Lopez,10/20/2013,Full-time,Operations,4,Nashville-Davidson,Female,259619,286
+Steele.Hunt@zenyai.com,Steele,Hunt,01/29/2012,Full-time,Operations,2,Newark,Female,80035,4587
+Pope.Fletcher@zenyai.com,Pope,Fletcher,07/13/2017,Full-time,Operations,3,Mesa,Male,122472,2668
+Wells.Klein@zenyai.com,Wells,Klein,10/06/2020,Full-time,Operations,5,St. Louis,Female,103933,684
+Maldonado.Diaz@zenyai.com,Maldonado,Diaz,09/07/2015,Full-time,Management,2,Cincinnati,Male,113129,1568
+Webb.Washington@zenyai.com,Webb,Washington,04/10/2017,Full-time,Kitchen,4,Stockton,Female,132860,3892
+Ortega.Watson@zenyai.com,Ortega,Watson,12/17/2015,Full-time,Operations,5,Minneapolis,Female,275891,2119
+Castillo.Parks@zenyai.com,Castillo,Parks,04/28/2012,Full-time,Management,4,Montgomery,Male,60197,3008
+Norris.Griffin@zenyai.com,Norris,Griffin,07/14/2013,Full-time,Management,3,Kansas City,Male,219149,2557
+Figueroa.Warner@zenyai.com,Figueroa,Warner,12/14/2018,Full-time,Management,2,St. Louis,Female,303622,3592
+Norton.Norman@zenyai.com,Norton,Norman,06/18/2015,Full-time,Operations,1,San Jose,Female,279319,4130
+Scott.Chapman@zenyai.com,Scott,Chapman,07/13/2020,Full-time,Front of house,1,Plano,Male,306349,2447
+Moreno.Hubbard@zenyai.com,Moreno,Hubbard,12/24/2015,Full-time,Management,3,Cincinnati,Female,159502,4715
+Stephens.Weaver@zenyai.com,Stephens,Weaver,07/25/2014,Full-time,Management,2,San Antonio,Female,316861,4126
+Wolfe.Stanley@zenyai.com,Wolfe,Stanley,07/18/2018,Full-time,Management,5,Chula Vista,Female,338321,3029
+Wilkerson.Jordan@zenyai.com,Wilkerson,Jordan,07/27/2019,Full-time,Front of house,5,Baton Rouge,Male,309313,1978
+Rice.Alexander@zenyai.com,Rice,Alexander,02/14/2013,Full-time,Front of house,2,Long Beach,Female,217548,3027
+Weber.Butler@zenyai.com,Weber,Butler,05/22/2020,Full-time,Front of house,3,Toledo,Male,158490,2195
+Powers.Boyd@zenyai.com,Powers,Boyd,06/26/2018,Full-time,Kitchen,3,San Francisco,Female,171181,2197
+Riley.Willis@zenyai.com,Riley,Willis,04/05/2020,Full-time,Operations,3,Riverside,Female,281595,3538
+Mason.Barton@zenyai.com,Mason,Barton,11/02/2017,Full-time,Kitchen,2,Houston,Male,168510,3867
+Salazar.Luna@zenyai.com,Salazar,Luna,12/01/2013,Full-time,Operations,3,Newark,Male,99109,4269
+Burton.Spencer@zenyai.com,Burton,Spencer,07/13/2020,Full-time,Kitchen,4,Newark,Female,310284,2865
+Hamilton.Greer@zenyai.com,Hamilton,Greer,05/03/2012,Full-time,Operations,1,Jacksonville,Female,118789,2859
+Conner.Owens@zenyai.com,Conner,Owens,07/03/2015,Full-time,Operations,4,Oklahoma City,Male,142611,2164
+Harrington.Walters@zenyai.com,Harrington,Walters,08/08/2019,Full-time,Management,5,Austin,Female,195587,1232
+Cook.Day@zenyai.com,Cook,Day,01/19/2012,Full-time,Kitchen,1,Baltimore,Female,110466,1865
+Drake.Grant@zenyai.com,Drake,Grant,03/06/2020,Full-time,Kitchen,4,Nashville-Davidson,Female,181936,3001
+Reese.Abbott@zenyai.com,Reese,Abbott,02/16/2013,Full-time,Kitchen,1,Denver,Male,168807,2932
+Mendoza.Dean@zenyai.com,Mendoza,Dean,12/27/2017,Full-time,Management,1,Norfolk,Female,215225,4387
+Lamb.Castillo@zenyai.com,Lamb,Castillo,09/12/2020,Full-time,Kitchen,5,Huntington,Male,75295,4535
+Black.Lucas@zenyai.com,Black,Lucas,11/27/2015,Full-time,Front of house,2,Mesa,Female,192578,3799
+Mills.Carr@zenyai.com,Mills,Carr,02/17/2015,Full-time,Management,1,Minneapolis,Female,135778,2167
+Lawrence.Miles@zenyai.com,Lawrence,Miles,12/16/2013,Full-time,Operations,2,Mesa,Male,207573,2002
+Wood.Mcbride@zenyai.com,Wood,Mcbride,02/02/2016,Full-time,Kitchen,3,Minneapolis,Male,187592,2161
+Rivera.Arnold@zenyai.com,Rivera,Arnold,12/31/2012,Full-time,Management,4,Indianapolis,Female,257917,3803
+Jackson.Francis@zenyai.com,Jackson,Francis,12/12/2014,Full-time,Operations,1,Santa Ana,Female,189488,3064
+Howard.Stewart@zenyai.com,Howard,Stewart,08/24/2012,Full-time,Management,5,Durham,Male,329319,3863
+Tucker.Harrison@zenyai.com,Tucker,Harrison,06/10/2018,Full-time,Front of house,2,Durham,Female,221949,4083
+Alexander.Powers@zenyai.com,Alexander,Powers,02/19/2013,Full-time,Management,4,Seattle,Female,268759,1205
+Bell.Ortega@zenyai.com,Bell,Ortega,04/28/2013,Full-time,Operations,4,Virginia Beach,Female,169783,762
+Patrick.Mccoy@zenyai.com,Patrick,Mccoy,12/11/2013,Full-time,Kitchen,5,Greensboro,Male,290512,1193
+James.Cunningham@zenyai.com,James,Cunningham,10/31/2017,Full-time,Front of house,4,Laredo,Female,349359,1780
+Baldwin.Moody@zenyai.com,Baldwin,Moody,08/21/2012,Full-time,Kitchen,1,Arlington,Male,157700,3593
+Barber.Gibson@zenyai.com,Barber,Gibson,09/23/2018,Full-time,Front of house,3,Long Beach,Female,264992,1791
+Cooper.Lewis@zenyai.com,Cooper,Lewis,09/05/2015,Full-time,Operations,2,Chesapeake,Female,272102,332
+Warren.Doyle@zenyai.com,Warren,Doyle,05/04/2012,Full-time,Operations,1,Arlington,Male,277698,3310
+Dawson.Sutton@zenyai.com,Dawson,Sutton,01/08/2019,Full-time,Management,4,Memphis,Male,87466,582
+Fleming.Holt@zenyai.com,Fleming,Holt,12/13/2013,Full-time,Front of house,5,Tulsa,Female,337715,960
+Boyd.Baker@zenyai.com,Boyd,Baker,05/07/2017,Full-time,Front of house,4,Newark,Female,148030,514
+Curry.Moss@zenyai.com,Curry,Moss,07/18/2013,Full-time,Management,2,Seattle,Male,312366,2117
+Silva.Walker@zenyai.com,Silva,Walker,05/11/2017,Full-time,Front of house,2,Plano,Female,181196,717
+Howell.Cummings@zenyai.com,Howell,Cummings,08/23/2016,Full-time,Management,4,Garland,Female,288271,2170
+Morrison.Cortez@zenyai.com,Morrison,Cortez,03/07/2015,Full-time,Kitchen,4,Orlando,Female,110897,4747
+Lewis.Jackson@zenyai.com,Lewis,Jackson,07/13/2016,Full-time,Operations,4,Tampa,Male,251111,3371
+Thomas.Hanson@zenyai.com,Thomas,Hanson,07/08/2015,Full-time,Operations,4,Reno,Female,319068,4994
+Hunter.Murphy@zenyai.com,Hunter,Murphy,12/25/2012,Full-time,Management,4,Montgomery,Male,192631,3465
+Medina.Padilla@zenyai.com,Medina,Padilla,05/16/2018,Full-time,Management,1,Arlington,Female,185534,4036
+Waters.Rice@zenyai.com,Waters,Rice,03/31/2014,Full-time,Front of house,1,Milwaukee,Female,107492,3308
+Castro.Garcia@zenyai.com,Castro,Garcia,10/14/2017,Full-time,Front of house,1,Riverside,Male,76774,1913
+Tyler.Brock@zenyai.com,Tyler,Brock,08/26/2020,Full-time,Front of house,1,Laredo,Male,186040,626
+Mann.Morgan@zenyai.com,Mann,Morgan,07/06/2013,Full-time,Front of house,5,Kansas City,Female,222487,1194
+Nelson.Mullins@zenyai.com,Nelson,Mullins,01/31/2012,Full-time,Operations,2,Greensboro,Female,101463,2777
+Carr.Fisher@zenyai.com,Carr,Fisher,08/23/2018,Full-time,Kitchen,2,Cleveland,Male,244013,1300
+Warner.Quinn@zenyai.com,Warner,Quinn,03/29/2020,Full-time,Management,5,Honolulu,Female,319779,1865
+Mccarthy.Baldwin@zenyai.com,Mccarthy,Baldwin,12/14/2018,Full-time,Management,5,Sacramento,Female,140281,1190
+Flores.Rhodes@zenyai.com,Flores,Rhodes,03/08/2014,Full-time,Operations,4,Garland,Female,323951,3893
+Mack.Rodriquez@zenyai.com,Mack,Rodriquez,02/26/2020,Full-time,Kitchen,5,Indianapolis,Male,263092,3786
+Robbins.Mclaughlin@zenyai.com,Robbins,Mclaughlin,02/13/2014,Full-time,Operations,1,Arlington,Female,161951,3716
+Valdez.King@zenyai.com,Valdez,King,12/05/2013,Full-time,Operations,2,Rochester,Male,231679,747
+Ross.Vasquez@zenyai.com,Ross,Vasquez,06/30/2015,Full-time,Kitchen,2,San Jose,Female,251130,1398
+Sharp.Shelton@zenyai.com,Sharp,Shelton,08/13/2013,Full-time,Kitchen,4,El Paso,Female,229880,740
+Garcia.Hoffman@zenyai.com,Garcia,Hoffman,07/04/2020,Full-time,Management,1,St. Petersburg,Male,284240,4370
+Parsons.Woods@zenyai.com,Parsons,Woods,03/12/2018,Full-time,Kitchen,2,Dallas,Male,67992,4035
+Keller.Lambert@zenyai.com,Keller,Lambert,05/02/2016,Full-time,Management,5,Henderson,Female,157619,1545
+Andrews.Haynes@zenyai.com,Andrews,Haynes,04/02/2020,Full-time,Front of house,1,San Diego,Female,334887,4122
+Santiago.Stephens@zenyai.com,Santiago,Stephens,06/20/2016,Full-time,Management,1,Long Beach,Male,258601,1590
+Lindsey.Delgado@zenyai.com,Lindsey,Delgado,05/08/2016,Full-time,Management,3,Bakersfield,Female,89939,3895
+Austin.Kelly@zenyai.com,Austin,Kelly,07/28/2016,Full-time,Operations,4,Aurora,Female,310359,2938
+Fox.Garrett@zenyai.com,Fox,Garrett,11/22/2013,Full-time,Operations,2,San Francisco,Female,247217,2223
+Clarke.Elliott@zenyai.com,Clarke,Elliott,11/25/2017,Full-time,Operations,5,Toledo,Male,143761,1150
+Wallace.Beck@zenyai.com,Wallace,Beck,09/08/2019,Full-time,Front of house,1,Pittsburgh,Female,296409,4757
+Neal.Gilbert@zenyai.com,Neal,Gilbert,08/16/2013,Full-time,Kitchen,1,Mesa,Male,175547,1137
+Wilkins.Nguyen@zenyai.com,Wilkins,Nguyen,02/27/2019,Full-time,Kitchen,4,Cleveland,Female,234729,891
+Alvarez.Jefferson@zenyai.com,Alvarez,Jefferson,04/27/2018,Full-time,Kitchen,4,Cleveland,Female,241464,3581
+Richards.Barnett@zenyai.com,Richards,Barnett,10/29/2019,Full-time,Kitchen,4,Greensboro,Male,286020,2076
+Kelly.Waters@zenyai.com,Kelly,Waters,04/13/2017,Full-time,Operations,2,Reno,Male,252487,4138
+Park.Mccarthy@zenyai.com,Park,Mccarthy,01/16/2019,Full-time,Operations,4,Omaha,Female,105825,2615
+Burgess.Reed@zenyai.com,Burgess,Reed,10/14/2015,Full-time,Management,2,Rochester,Female,115771,2235
+Price.Sparks@zenyai.com,Price,Sparks,12/29/2019,Full-time,Front of house,3,Aurora,Male,272174,3244
+Hubbard.Stevenson@zenyai.com,Hubbard,Stevenson,09/14/2015,Full-time,Management,2,Dallas,Female,145469,2188
+Chandler.Green@zenyai.com,Chandler,Green,12/31/2017,Full-time,Management,5,Sacramento,Female,75249,2082
+Lynch.Summers@zenyai.com,Lynch,Summers,06/12/2013,Full-time,Kitchen,2,San Jose,Female,181552,4528
+Jones.Bradley@zenyai.com,Jones,Bradley,02/07/2012,Full-time,Front of house,2,Washington,Male,323848,2620
+Kelley.Soto@zenyai.com,Kelley,Soto,05/14/2014,Full-time,Operations,3,Arlington,Female,137805,946
+Reid.Bennett@zenyai.com,Reid,Bennett,03/23/2014,Full-time,Kitchen,4,Washington,Male,136049,4746
+Barker.Lane@zenyai.com,Barker,Lane,06/21/2019,Full-time,Operations,2,El Paso,Female,259758,2135
+Long.Tate@zenyai.com,Long,Tate,10/09/2020,Full-time,Management,2,Sacramento,Female,221281,1602
+Poole.Graham@zenyai.com,Poole,Graham,08/08/2015,Full-time,Kitchen,4,New Orleans,Male,152948,319
+Herrera.French@zenyai.com,Herrera,French,03/29/2015,Full-time,Front of house,5,Virginia Beach,Male,314448,1617
+Hogan.Alvarez@zenyai.com,Hogan,Alvarez,09/21/2019,Full-time,Operations,2,Wichita,Female,222257,4687
+Phillips.Medina@zenyai.com,Phillips,Medina,08/04/2013,Full-time,Management,1,El Paso,Female,112166,1903
+Davis.Gordon@zenyai.com,Davis,Gordon,02/09/2012,Full-time,Front of house,4,Wichita,Male,269376,1833
+West.Oliver@zenyai.com,West,Oliver,02/26/2020,Full-time,Kitchen,4,Anchorage,Female,227117,295
+Johnston.Goodman@zenyai.com,Johnston,Goodman,03/14/2016,Full-time,Front of house,3,Jacksonville,Female,279500,984
+Stevenson.Wilson@zenyai.com,Stevenson,Wilson,02/14/2020,Full-time,Operations,4,Chandler,Female,188205,4649
+Terry.Snyder@zenyai.com,Terry,Snyder,06/15/2020,Full-time,Operations,1,Portland,Male,336772,2413
+Delgado.Young@zenyai.com,Delgado,Young,09/04/2017,Full-time,Kitchen,2,Santa Ana,Female,191413,1604
+Joseph.Cook@zenyai.com,Joseph,Cook,08/05/2013,Full-time,Operations,1,San Jose,Male,137847,4817
+Davidson.Wise@zenyai.com,Davidson,Wise,10/24/2015,Full-time,Kitchen,4,Chicago,Female,164061,1299
+Coleman.Houston@zenyai.com,Coleman,Houston,05/08/2015,Full-time,Management,5,Huntington,Female,229076,1291
+Brewer.Holland@zenyai.com,Brewer,Holland,03/23/2018,Full-time,Front of house,5,Raleigh,Male,316014,1594
+Paul.Barker@zenyai.com,Paul,Barker,03/03/2012,Full-time,Management,4,Orlando,Male,120509,4100
+Carlson.Newton@zenyai.com,Carlson,Newton,06/23/2020,Full-time,Operations,4,San Francisco,Female,225294,1480
+Freeman.Lamb@zenyai.com,Freeman,Lamb,10/14/2013,Full-time,Front of house,3,San Bernardino,Female,136875,2873
+Mullins.Norton@zenyai.com,Mullins,Norton,07/19/2012,Full-time,Kitchen,4,Chicago,Male,315512,2314
+Sanders.Walton@zenyai.com,Sanders,Walton,05/08/2019,Full-time,Operations,5,Plano,Female,175863,2188
+Murray.Becker@zenyai.com,Murray,Becker,06/03/2015,Full-time,Operations,5,Montgomery,Female,208798,3849
+Nichols.Cain@zenyai.com,Nichols,Cain,08/12/2016,Full-time,Operations,5,Memphis,Female,211957,3651
+Carter.Olson@zenyai.com,Carter,Olson,07/14/2014,Full-time,Operations,1,Lexington-Fayette,Male,264571,4088
+Spencer.Dawson@zenyai.com,Spencer,Dawson,04/13/2012,Full-time,Front of house,2,Fort Worth,Female,317227,2336
+Craig.Stevens@zenyai.com,Craig,Stevens,03/18/2017,Full-time,Management,2,New Orleans,Male,306179,263
+Brown.Martinez@zenyai.com,Brown,Martinez,02/10/2017,Full-time,Operations,1,Oklahoma City,Female,100037,2582
+Byrd.Patrick@zenyai.com,Byrd,Patrick,04/13/2016,Full-time,Operations,5,Plano,Female,296732,1949
+Peterson.Stone@zenyai.com,Peterson,Stone,01/19/2016,Full-time,Operations,2,Lubbock,Male,244685,1322
+Cohen.Taylor@zenyai.com,Cohen,Taylor,11/03/2018,Full-time,Kitchen,4,Jersey City,Male,51282,729
+Quinn.Patterson@zenyai.com,Quinn,Patterson,03/01/2014,Full-time,Kitchen,5,New York,Female,103719,615
