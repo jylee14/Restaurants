@@ -4,6 +4,12 @@ Backend implemented using Express + node.js + mongoDB/mongoose
 
 ## API
 
+200 + Data if successful
+
+400 if invalid search query
+
+403 if missing token
+
 #### GET /Employees 
 ##### Returns ALL the data stored in the database in the following format
 ```
