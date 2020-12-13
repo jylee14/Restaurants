@@ -1,7 +1,5 @@
 # Restaurants
 
-Take home project for Pave.
-
 Backend implemented using Express + node.js + mongoDB/mongoose
 
 ## API
